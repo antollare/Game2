@@ -12,7 +12,7 @@
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"order":3,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":0,},
     {"id":{"name":"obj_gameManager","path":"objects/obj_gameManager/obj_gameManager.yy",},"order":6,},
-    {"id":{"name":"lvl_1","path":"rooms/lvl_1/lvl_1.yy",},"order":0,},
+    {"id":{"name":"rm_lvl1","path":"rooms/rm_lvl1/rm_lvl1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -28,7 +28,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"lvl_1","path":"rooms/lvl_1/lvl_1.yy",},},
+    {"roomId":{"name":"rm_lvl1","path":"rooms/rm_lvl1/rm_lvl1.yy",},},
     {"roomId":{"name":"rm_gameOver","path":"rooms/rm_gameOver/rm_gameOver.yy",},},
   ],
   "Folders": [

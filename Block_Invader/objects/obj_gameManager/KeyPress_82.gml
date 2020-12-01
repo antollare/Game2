@@ -1,2 +1,2 @@
 //reset game
-room_restart();
+room_goto(rm_lvl1);

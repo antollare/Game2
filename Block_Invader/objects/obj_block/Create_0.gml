@@ -1,2 +1,2 @@
-vspeed = 1;
+vspeed = haste;
 

@@ -5,11 +5,11 @@ for(i = 0; i < room_width; i += 1){
 		damage += inst.strength;
 	}
 }
-life -= damage/room_speed;
+life -= damage / room_speed;
 health = (life / max_life) *100;
 damage = 0;
 
 //check to see if health <= 0 and end game
 if(life <= 0){
-	obj_gameManager.gameOver = true;
+	room_goto(rm_gameOver);
 }

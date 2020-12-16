@@ -26,8 +26,10 @@
   "eventList": [],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"life","path":"objects/obj_block/obj_block.yy",},"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"value":"2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"haste","path":"objects/obj_block/obj_block.yy",},"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"value":"4","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"life","path":"objects/obj_block/obj_block.yy",},"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"value":"5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"haste","path":"objects/obj_block/obj_block.yy",},"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"value":"2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"reward","path":"objects/obj_block/obj_block.yy",},"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"value":"5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"strength","path":"objects/obj_block/obj_block.yy",},"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",

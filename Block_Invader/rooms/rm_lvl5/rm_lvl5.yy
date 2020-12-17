@@ -14,8 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":21.5,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":672.0,"resourceVersion":"1.0","name":"inst_5965D027","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":736.0,"resourceVersion":"1.0","name":"inst_5E29AAD1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[
             {"propertyId":{"name":"amount","path":"objects/obj_enemySpawner/obj_enemySpawner.yy",},"objectId":{"name":"obj_enemySpawner","path":"objects/obj_enemySpawner/obj_enemySpawner.yy",},"value":"6","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"interval","path":"objects/obj_enemySpawner/obj_enemySpawner.yy",},"objectId":{"name":"obj_enemySpawner","path":"objects/obj_enemySpawner/obj_enemySpawner.yy",},"value":"7","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
@@ -39,8 +37,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_5965D027","path":"rooms/rm_lvl5/rm_lvl5.yy",},
-    {"name":"inst_5E29AAD1","path":"rooms/rm_lvl5/rm_lvl5.yy",},
     {"name":"inst_32096431","path":"rooms/rm_lvl5/rm_lvl5.yy",},
     {"name":"inst_9634CA9","path":"rooms/rm_lvl5/rm_lvl5.yy",},
     {"name":"inst_63AAA95D","path":"rooms/rm_lvl5/rm_lvl5.yy",},

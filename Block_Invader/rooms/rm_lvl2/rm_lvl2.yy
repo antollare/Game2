@@ -14,8 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":21.5,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":672.0,"resourceVersion":"1.0","name":"inst_360B5E21","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":640.0,"y":736.0,"resourceVersion":"1.0","name":"inst_2033905D","tags":[],"resourceType":"GMRInstance",},
         {"properties":[
             {"propertyId":{"name":"enemy","path":"objects/obj_enemySpawner/obj_enemySpawner.yy",},"objectId":{"name":"obj_enemySpawner","path":"objects/obj_enemySpawner/obj_enemySpawner.yy",},"value":"obj_enemy1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"obj_enemySpawner","path":"objects/obj_enemySpawner/obj_enemySpawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1376.0,"y":0.0,"resourceVersion":"1.0","name":"inst_1EABA61C","tags":[],"resourceType":"GMRInstance",},
@@ -32,8 +30,6 @@
   "creationCodeFile": "${project_dir}/rooms/rm_lvl2/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_360B5E21","path":"rooms/rm_lvl2/rm_lvl2.yy",},
-    {"name":"inst_2033905D","path":"rooms/rm_lvl2/rm_lvl2.yy",},
     {"name":"inst_1EABA61C","path":"rooms/rm_lvl2/rm_lvl2.yy",},
     {"name":"inst_4340A9D6","path":"rooms/rm_lvl2/rm_lvl2.yy",},
   ],

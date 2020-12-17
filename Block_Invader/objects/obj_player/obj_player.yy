@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_player",
-    "path": "sprites/spr_player/spr_player.yy",
+    "name": "spr_playerPistol",
+    "path": "sprites/spr_playerPistol/spr_playerPistol.yy",
   },
   "solid": false,
   "visible": true,
